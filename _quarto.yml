@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Workshop Title"
+  title: "EC242"
   navbar:
     left:
       - href: index.qmd
@@ -19,6 +19,7 @@ website:
     contents:
       - part_1_prep.qmd
       - part_2_eda.qmd
+      - "00-content.qmd"
   page-navigation: true
 
 format:
